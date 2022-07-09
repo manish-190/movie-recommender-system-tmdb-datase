@@ -26,5 +26,3 @@ This algorithm at first tries to find similar users based on their activities an
 But we are going to implement a Content based recommendation system using the scikit-learn library.
 Enjoy!!!
 
-
-Thanks - CodeHeroku
